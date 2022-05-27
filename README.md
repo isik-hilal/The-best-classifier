@@ -1,4 +1,4 @@
-# best-predictor--loan
+# The best classifier
 
 This project was made as an assignment for the Coursera Machine Learning course: https://www.coursera.org/learn/machine-learning-with-python
 

@@ -7,8 +7,8 @@ This project was made as an assignment for the Coursera Machine Learning course:
 Based on the Loan_train.csv dataset, we need to predict whether a new customer will pay the loan on time or not.
 4 different classification techniques:
 
-K-Nearest Neighbours
-Decision Tree
-SVM classification
-Logistic Regression
+- K-Nearest Neighbours
+- Decision Tree
+- SVM classification
+- Logistic Regression
 
